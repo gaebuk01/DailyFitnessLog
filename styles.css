@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
 
 :root {
-    --primary-color: #E53935; /* 강렬한 빨간색 (Red) - 포인트/강조 */
-    --secondary-color: #616161; /* 중간 회색 (Grey) - 제목/버튼 배경 */
-    --background-color: #212121; /* 어두운 배경 (Dark Grey/Near Black) - 전체 배경 */
-    --card-background: #424242; /* 카드/폼 배경 (Darker Grey) */
-    --text-color: #FFFFFF; /* 밝은 텍스트 색상 (White) */
-    --border-color: #757575; /* 경계선 색상 (Medium Grey) */
-    --shadow-color: rgba(0, 0, 0, 0.4); /* 어두운 그림자 */
-}
+            --primary-color: #E53935; /* 강렬한 빨간색 (Red) - 포인트/강조 */
+            --secondary-color: #FFFFFF; /* 흰색으로 변경 (White) - 제목/버튼 배경 */
+            --background-color: #212121; /* 어두운 배경 (Dark Grey/Near Black) - 전체 배경 */
+            --card-background: #424242; /* 카드/폼 배경 (Darker Grey) */
+            --text-color: #FFFFFF; /* 밝은 텍스트 색상 (White) */
+            --border-color: #757575; /* 경계선 색상 (Medium Grey) */
+            --shadow-color: rgba(0, 0, 0, 0.4); /* 어두운 그림자 */
+        }
 
 * {
     margin: 0;
